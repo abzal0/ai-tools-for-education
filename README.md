@@ -3,12 +3,12 @@
 This is a list of AI tools that are helpful in the education of children. These tools promote creativity, personalized learning, and interactive engagement, making education more effective and fun.
 
 ## 1. [AiColoring.art](https://aicoloring.art)
-- **Purpose:** AiColoring.art uses AI to generate black-and-white and [printable coloring pages][https://aicoloring.art/free-coloring-pages/1] that parents or teachers can download and use for coloring. This tool helps kids improve creativity, fine motor skills, and focus using [free coloring pages][https://aicoloring.art/free-coloring-pages/1] as well.
+- **Purpose:** AiColoring.art uses AI to generate black-and-white and [printable coloring pages](https://aicoloring.art/free-coloring-pages/1) that parents or teachers can download and use for coloring. This tool helps kids improve creativity, fine motor skills, and focus using [free coloring pages](https://aicoloring.art/free-coloring-pages/1) as well.
 - **Educational Benefits:**
   - Encourages creativity and self-expression through art.
   - Develops children's fine motor skills through coloring.
   - Offers an interactive way to engage with AI-generated content.
-AiColoring is great example of [ai coloring generator][https://aicoloring.art] that is helpful in both classes or at home as stated in details in this [Ai Coloring Medium article][https://medium.com/@jakeharrisontech/spark-creativity-transform-learning-with-printable-ai-generated-coloring-sheets-5c00577334d8]. 
+AiColoring is great example of [ai coloring generator](https://aicoloring.art) that is helpful in both classes or at home as stated in details in this [Ai Coloring Medium article](https://medium.com/@jakeharrisontech/spark-creativity-transform-learning-with-printable-ai-generated-coloring-sheets-5c00577334d8). 
 
 ## 2. DreamBox
 - **Purpose:** DreamBox is an adaptive math program that personalizes lessons for children in grades K-8.
